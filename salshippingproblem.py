@@ -15,7 +15,7 @@ elif weight > 10:
   cost_groundshipping = weight*4.75+20
 
 print("If you choose Ground shipping the cost will be: " + str(cost_groundshipping) + "€")
-
+ 
 #Ground Shipping Premium (Pricing Table)
 
 print("If you choose Ground shipping Premium the cost will be: " + str(cost_groundshipping_premium) + "€")
