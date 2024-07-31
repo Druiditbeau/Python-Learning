@@ -4,7 +4,7 @@ cost_groundshipping_premium = 125 #Ground Shipping Premium IS STATIC
 cost_droneshipping = 0
 
 #Ground Shipping (pricing table)
- 
+  
 if weight <= 2:
   cost_groundshipping = weight*1.5+20
 elif weight <= 6 and weight > 2:
